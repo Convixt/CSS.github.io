@@ -1,0 +1,21 @@
+/*********************Tag Selectors*****************/
+
+
+h1{background-color: #2256;}
+          
+img:hover {background-color: yellow;}
+
+
+
+/*******************Class Selectors*****************/
+.Music{background-color: black;}
+.Camera{background-color: firebrick;}
+
+.circular{
+    border-radius: 100%;
+}
+
+
+
+/*******************Class Selectors*****************/
+#Heading{background-color: blue;}
